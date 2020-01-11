@@ -1,0 +1,12 @@
+OOP's Concepts
+1. Encapsulation: the wrapping up of data and methods into a single unit(class) is encapsulation.
+Advantage: It makes it possible for objects to perform a specific task without any concern for internal implementation.
+2. Abstraction: implementation on necessary things and hiding the unnecessary data ( for user)
+Advantage: hepls to  hide the protected  data
+3. Inheritance: transfer  of data  members and methods from one class to another. In this objects of one class can acquire the properties
+of objects of another class.
+Advantage:  it supports reusability of data
+4. Polymorphism: ability to take more than one form
+Compile time polymorphism:  one task is implementation of inheritance
+Run time polymorphism: time period when a program is actually executed.
+ 
