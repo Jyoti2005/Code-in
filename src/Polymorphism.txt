@@ -1,0 +1,5 @@
+ Polymorphism: ability to take more than one form
+Compile time polymorphism: also known as Static Polymorphism. In this compiler is aware of the functions with same name and also which 
+overloaded function is to be called.
+Run time polymorphism: dynamic method dispatch is a process in which a call to an overriden method is resolved at runtime rather than compile
+time. The determination of the method to be called is based on the object being referred to by the reference variable.
